@@ -3,5 +3,5 @@ def simple_fun:
 	print('test file')
 
 
-
+return 0
 
